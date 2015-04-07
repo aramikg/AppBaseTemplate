@@ -1,0 +1,11 @@
+{
+    "name" : "basic",
+    "description" : "Basic starting template for using Node, Express, and Swig",
+    "author" : "Aramik <a.mik@me.com>",
+    "dependencies": {
+      "colors" : "*",
+      "express" : "4.*",
+      "sails" : "0.11.*",
+      "sails-mongo" : "0.10.*"
+    }
+}
